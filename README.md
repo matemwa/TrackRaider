@@ -5,6 +5,7 @@ Roman bikes:
 1. Raider    => Base Speed = average; Number of modules that can be mount = 3
 2. Speedster => Base Speed = high; Number of modules that can be mount = 1; Special = ignores curves
 3. Tank      => Base Speed = low; Number of modules that can be mount = 2; Special = ignores ditches
+
 Track 1 can have up to 3 obstacles. Track 2 can have from 5 to 10 obstacles.
 Jumping over a ditch is possible with 'jump' moudles. 'Speed' modules boost the speed. Curves limit the speed.
 
