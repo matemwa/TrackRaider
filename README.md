@@ -1,4 +1,16 @@
+To run this app install all modules with `npm install` and run with `npm start`
+
+This app is a track simulator for a raider Roman that is racing against his opponent. Depending on what bike and modules are chosen there's a winner chosen. The track is tough, both can fell into a ditch if they have not enough jump modules. The raider with higer speed is going to be the winner.
+Roman bikes:
+1. Raider    => Base Speed = average; Number of modules that can be mount = 3
+2. Speedster => Base Speed = high; Number of modules that can be mount = 1; Special = ignores curves
+3. Tank      => Base Speed = low; Number of modules that can be mount = 2; Special = ignores ditches
+Track 1 can have up to 3 obstacles. Track 2 can have from 5 to 10 obstacles.
+Jumping over a ditch is possible with 'jump' moudles. 'Speed' modules boost the speed. Curves limit the speed.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
